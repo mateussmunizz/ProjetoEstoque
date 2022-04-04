@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "nameProduct": "Arroz 5kg",
+      "idProduct": "#A1",
+      "quantity": "5",
+      "id": 1
+    }
+  ]
+}
